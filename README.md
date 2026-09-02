@@ -96,5 +96,5 @@ O comando `git push origin main` sobe as alterações para a núvem.
 git status
 git add
 git commit -m "Texto com a descrição do que foi implementado".
-git pusj origin main
+git push origin main
 ```
