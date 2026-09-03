@@ -96,5 +96,38 @@ O comando `git push origin main` sobe as alterações para a núvem.
 git status
 git add
 git commit -m "Texto com a descrição do que foi implementado".
-git pusj origin main
+git push origin main
 ```
+
+## Citações
+
+```
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+```
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas
+
+
+| Tecnologia | Finalidade |
+| --- | --- |
+| Git | Controle de versionamento |
+ Git Hub | Hospedagem e colaboração |
+ Markdown | Documentação |
+
+
+---
+ |Alinhamento a Esquerda | Alinhamento ao Centro | Alinhamento a Direita |
+ | --- | --- | --- | 
+
+ | texto | texto | texto |
+
+ ## Imagens 
+
+ ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+ ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+ ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+
+ ![Homer Simpson](./homer-capa.jpg)
+ 
+
